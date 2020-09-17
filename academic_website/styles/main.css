@@ -1514,8 +1514,10 @@ fieldset[disabled]
   top: 1px;
 }
 
-.btn-primary {
-  background-color: #378C3F;
+.btn-primary {  
+  background-color: #005e5e;
+  border: 2px solid white;
+  font-weight: bold;
   color: #FFFFFF;
 }
 
@@ -3402,7 +3404,8 @@ body {
 }
 
 .bg-primary {
-  background-color: #378C3F !important;
+  /*background-color: #378C3F !important;*/
+  background-color: #005e5e !important;
 }
 
 .bg-info {
@@ -7096,7 +7099,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 15px solid rgba(00, 94, 94, 0.6);
   border-radius: 50%;
   height: 180px;
   width: 180px;
